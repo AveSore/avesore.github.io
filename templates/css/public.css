@@ -1,0 +1,26 @@
+body{
+	font-family: "楷体";
+	cursor: default;
+}
+.w1190{
+	width: 1190px;
+	margin:0 auto;
+}
+ul,li{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+a{
+	text-decoration: none;
+}
+.fl{
+	float: left;
+}
+.fr{
+	float: right;
+}
+h1,h2,h3,h4,h5,h6,p{
+	margin: 0;
+	padding: 0;
+}
